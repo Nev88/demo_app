@@ -13,7 +13,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
-
+gem "pg", "~> 0.12.2"
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
